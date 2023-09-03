@@ -1,9 +1,9 @@
 Style Guide Basics
 ==================
 
-These guidelines build on the editing hundreds of tech articles and watching writers of differing expertise and from dozens of backgrounds stumble over the same issues. 
+These guidelines build on editing hundreds of tech articles and observing writers of various levels of expertise and diverse backgrounds repeatedly encountering the same issues. 
 
-There are a few terms specific to old-school journalism are useful shorthand in the editing process. The funky spellings ([lede](https://www.merriam-webster.com/words-at-play/bury-the-lede-versus-lead), [dek](https://writersweekly.com/this-weeks-article/what-the-heck-is-a-heddek-learning-the-lingo-in-periodical-publishing-by-janene-mascarella)) persist because they serve the same purpose they did back in the day: they get flagged by spell check (or humans!), so are unlikely to get published by accident.
+There are a few terms specific to old-school journalism that are useful shorthand in the editing process. The funky spellings ([lede](https://www.merriam-webster.com/words-at-play/bury-the-lede-versus-lead), [dek](https://writersweekly.com/this-weeks-article/what-the-heck-is-a-heddek-learning-the-lingo-in-periodical-publishing-by-janene-mascarella)) persist because they serve the same purpose they did back in the day: they get flagged by spell check (or humans!), so are unlikely to get published by accident.
 
 One caveat: These are guidelines optimized for human readers -- not SEO or indexing bots. Page ranking is secondary to producing robust content that your audience wants to read.
 
@@ -12,14 +12,14 @@ Headlines: Three rules for good ones
 
 The headline, or hed, is the most important part of your post, at least when it comes to earning readers. Writing great heds is an art, but the perfect headline for a story is concise, engaging and active.
 
--   Concise -- Don't cram the whole story into a headline!\
+-   Concise: Don't cram the whole story into a headline!\
     Stories with short headlines simply do better than stories with longer headlines.\
     With a portion of traffic coming from social media, concision matters. Headlines should contain as few extraneous words as possible but include a subject, an object and a verb.\
     Best practices about length change faster than fashion dictates hemlines, but generally: the shorter, the better.  
 
--   Engaging -- Headlines aren't summaries of a story, they're ads for it. You have a few seconds to pitch the reader into reading more. As such, good headlines promote the most exciting/interesting/new thing about a story. Identify the "wow!" aspect of your story, then back it up. This is your elevator pitch.
+-   Engaging: Headlines aren't summaries of a story, they're ads for it. You have a few seconds to pitch the reader into reading more. As such, good headlines promote the most exciting/interesting/new thing about a story. Identify the "wow!" aspect of your story, then back it up. This is your elevator pitch.
 
--   Active -- Bad headlines are often extremely passive, or simply a statement of the topic. If you think of headlines as a summary, these often seem OK, but if you think of a headline as a pitch, it's clear these are non-starters.
+-   Active: Bad headlines are often extremely passive, or simply a statement of the topic. If you think of headlines as a summary, these often seem OK, but if you think of a headline as a pitch, it's clear these are non-starters.
 
 Examples:
 
@@ -31,11 +31,11 @@ Examples:
 
 When you write headlines, ask yourself if they satisfy the three rules above. Is it a good pitch to a reader for clicking and reading more? Is the headline as concise as possible? Is it active? If it's not, rewrite it. 
 
-If you have time, plug in a few of your key story terms (like [confidential computing](https://news.google.com/search?q=confidential%20computing&hl=en-US&gl=US&ceid=US%3Aen)) to Google News to see how others in the industry headlined their work. You can also workshop with [headline analyzers](https://www.monsterinsights.com/headline-analyzer/), but for "deep tech" subjects it's often difficult to meet their parameters without sounding like an hysterical sales pitch, so a decent, accurate headline often scores low.
+If you have time, plug in a few of your key story terms (like [confidential computing](https://news.google.com/search?q=confidential%20computing&hl=en-US&gl=US&ceid=US%3Aen)) to Google News to see how others in the industry headlined their work. You can also workshop with [headline analyzers](https://www.monsterinsights.com/headline-analyzer/), but for "deep tech" subjects it's often difficult to meet their parameters without sounding like a hysterical sales pitch, so a decent, accurate headline often scores low.
 
 Never submit a story without at least trying to write a headline or two: It's the mark of a writer who isn't clear what their story is about. It's fine to file with a few different options knowing the editor will play around with them. The editor's job is to make you look good, but don't force them to define your story for you -- and possibly rewrite or reorganize it in the process.
 
-Capitalization: Whether you follow the [Associated Press, The Chicago Manual of Style](https://capitalizemytitle.com/#APStyle), [Microsoft](https://learn.microsoft.com/en-us/style-guide/scannable-content/headings) or a house guide for headline styles, once you've settled on your hed, make it consistent. Nothing makes a publication look more slapdash than a home page, social or RSS feed with one headline in ALL CAPS followed by one styled in [homage to bell hooks](https://mashable.com/article/disable-auto-caps-lowercase-texting-online-communication) lowercase. The rougher your copy, the higher the likelihood mistakes are published.
+Capitalization: Whether you follow the [Associated Press, The Chicago Manual of Style](https://capitalizemytitle.com/#APStyle), [Microsoft](https://learn.microsoft.com/en-us/style-guide/scannable-content/headings) or a house guide for headline styles, once you've settled on your hed, make it consistent. Nothing makes a publication look more slapdash than a home page, social or RSS feed with one headline in ALL CAPS followed by one styled in [homage to bell hooks](https://mashable.com/article/disable-auto-caps-lowercase-texting-online-communication) lowercase. The rougher your copy, the higher the likelihood that mistakes are published.
 
 Dek: Don't forget it
 --------------------
@@ -59,9 +59,9 @@ Ledes: Last chance for pickup
 
 Similarly to the above, a good lede (aka the lead paragraph) is vital to enticing busy readers to spend more time on a post. Like a good headline, ledes should be short and engaging. However, a lede should be more than just a rehash of the hed or the dek: It should supplement it, flesh it out and offer an appealing hook to read more. 
 
--   Short Aim for a few direct sentences.
+-   Short: Aim for a few direct sentences.
 
--   Avoid links in the lede (or in the first sentence) unless you are pointing to an internal page. Otherwise, you're pushing readers out of the story.
+-   Avoid: links in the lede (or in the first sentence) unless you are pointing to an internal page. Otherwise, you're pushing readers out of the story.
 
 Example: 
 
@@ -76,14 +76,13 @@ Lede examples: 
 -   "Consider this web page you're reading right now. The links, headers, and paragraph breaks are marked up with HTML. But Cascading Style Sheets (CSS) really define the look and feel of it: the colors, the fonts, the column widths, the placement of all the various boxes and elements. If you're looking at this page on a mobile device, it's CSS that makes it look right on a smaller screen."
 
 -   "Programming language Python is about 10 years younger than Kim Kardashian. In this case, age really does come before beauty. One is versatile, predictable and has earned growing popularity. The other, well, not consistently.
-
 Google searches for Python outstripped those for Kim Kardashian in the United States last year. (Though it's worth noting perhaps that she[  rallied in popularity](https://trends.google.com/trends/explore?geo=US&q=%2Fm%2F05z1_,%2Fm%2F0261x8t) with those topless Instagram pics in January.)"
 
 Make sure that your ledes are:
 
--   Engaging -- Earlier, we described a headline as an elevator pitch, a Hollywood term used by screenwriters to describe capturing the interest of a producer you meet in an elevator with just a quick sentence or two. Sticking with that analogy, a good lede is the producer holding the elevator door and giving you a few more seconds to grab her attention. You want to tell her something she hasn't already heard and flesh out what you've already said with more information -- and persuade her to hear more.
+-   Engaging: Earlier, we described a headline as an elevator pitch, a Hollywood term used by screenwriters to capture the interest of a producer you meet in an elevator with just a quick sentence or two. Sticking with that analogy, a good lede is the producer holding the elevator door and giving you a few more seconds to grab her attention. You want to tell her something she hasn't already heard and flesh out what you've already said with more information -- and persuade her to hear more.
 
--   Meaningful -- A good lede gives an accurate representation of what the entire post is about and what content a reader will find after the dek. If it doesn't, rewrite.
+-   Meaningful: A good lede gives an accurate representation of what the entire post is about and what content a reader will find after the dek. If it doesn't, rewrite.
 
 Ledes should clearly convey the newest, most interesting information in your post.\
 Do not start with background information. Work relevant background information into a nut graf that provides context and gives an overview of why the story is important. Save minor details for later in the story. The [inverted pyramid structure](https://owl.purdue.edu/owl/subject_specific_writing/journalism_and_journalistic_writing/the_inverted_pyramid.html) - sparked by use of the telegraph - still stands.
@@ -123,7 +122,7 @@ Every publication needs one as a foundation. The AP Stylebook, updated for over 
 
 A few small points worth making: 
 
--   Second reference to a person is always last name. So for Roberta Smith, refer to her as "Smith" after the first reference, not Roberta. Unless you're publishing the Scout Newsletter and writing about your middleschool-age pals, it's too informal.
+-   Second reference to a person is always last name. So for Roberta Smith, refer to her as "Smith" after the first reference, not Roberta. Unless you're publishing the Scout Newsletter and writing about your 10-year-old pals, it's too informal.
 
 -   Job titles are capitalized only before a name and, since they tend to go after, that means almost never. The exceptions are common acronyms CEO, COO, CTO.
 
@@ -141,13 +140,13 @@ Make sure the links point to useful information. They help you to write shorter 
 Art: More than a pretty pic
 ---------------------------
 
-All stories should be filed with artwork. List some potential picks when you file. Treat the art as another way to communicate by adding information and punch to your story. Images often work best when witty or unexpected, riffing off the headline verb. 
+All stories should be filed with artwork - photos, images, graphics, social embeds. List some potential picks when you file. Treat the art as another way to communicate by adding information and punch to your story. Images often work best when witty or unexpected, riffing off the headline verb. 
 
 Example: Here's how articles with headlines about ["cloud computing myths debunked"](https://duckduckgo.com/?t=ffab&q=Three+cloud+computing+myths+debunked&atb=v149-1&iax=images&ia=images) have used art. Hands down, the paper unicorn on a laptop is the winner on social media.
 
 Looking a these examples, it's clear that you need something that looks good horizontally and, this is crucial, doesn't have writing on it. (These images often go underneath the headline inside the story and extra writing reduces overall legibility.)
 
-Find CC-licensed art on [Creative Commons](https://openverse.org/?referrer=creativecommons.org) or [Flickr](https://www.flickr.com/creativecommons) and on sites with permissive licenses like [morguefile.com](https://morguefile.com) and [unsplash](https://unsplash.com). Artificial intellingence is fun to play with too - just check the images carefully. Searching for ["red pen editing"](https://unprompt.ai/?s=red%20pen%20journalism) on [umprompt](https://unprompt.ai) pulls up a bunch of spooky gothic images, along with a hipster, sweating over a [backwards typewriter](https://unprompt.ai/?s=red%20pen%20journalism&i=NzE0ODY4OA%3D%3D). (Same [search](https://duckduckgo.com/?q=red+pen+journalism&t=ffab&atb=v149-1&iax=images&ia=images) on DuckDuckGo, for comparison.)
+Find CC-licensed art on [Creative Commons](https://openverse.org/?referrer=creativecommons.org) or [Flickr](https://www.flickr.com/creativecommons) and on sites with permissive licenses like [morguefile.com](https://morguefile.com) and [unsplash](https://unsplash.com). Artificial intelligence is fun to play with too - just check the images carefully. Searching for ["red pen editing"](https://unprompt.ai/?s=red%20pen%20journalism) on [umprompt](https://unprompt.ai) pulls up a bunch of spooky gothic images, along with a hipster, sweating over a [backward typewriter](https://unprompt.ai/?s=red%20pen%20journalism&i=NzE0ODY4OA%3D%3D). (Same [search](https://duckduckgo.com/?q=red+pen+journalism&t=ffab&atb=v149-1&iax=images&ia=images) on DuckDuckGo, for comparison.)
 
 Written by[  Nicole Martinelli](https://www.nicolemartinelli.com)
 [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) 
